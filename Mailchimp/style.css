@@ -1,0 +1,122 @@
+body{
+    background-color: gold;
+}
+
+.img1{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+#text1{
+    display:inline;
+}
+
+#navbar{
+    margin-top:0px;
+    display: inline;
+    margin-left: -15px;
+}
+
+#navbar ul{
+    display: inline;
+}
+
+#navbar ul li{
+    display:inline;
+    list-style-type: none;
+}
+
+#navbar ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    font-family:Tahoma;
+    padding-right: 15px;
+}
+
+.img2{
+    width: 20px;
+    height: 20px;
+}
+
+.login{
+    width: 100px;
+    height: 30px;
+    background-color:gold;
+    font-size:15px;
+    font-family:Tahoma;
+    margin-top: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-right: 3px;
+    margin-left: 6px;
+}
+
+.signup{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(46, 117, 115);
+    font-size: 15px;
+    font-family:Tahoma;
+    margin-top: 10px;
+    border: 1px solid rgb(46, 117, 115);
+    cursor: pointer;
+    color:white;
+}
+
+#text2{
+    font-size: 60px;
+    line-height: 70px;
+    font-family:"BlinkMacSystemFont";
+    font-weight: 100;
+    margin-top: 80px;
+    margin-left: 55px;
+}
+
+.img3{
+    position:relative;
+    bottom:170px;
+    left:500px;
+    width:200px;
+    height: 200px;
+}
+
+#text3{
+    font-size:23px;
+    position: relative;
+    bottom:270px;
+    left:60px;
+    font-family:"BlinkMacSystemFont";
+}
+
+.SignUp{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(46, 117, 115);
+    font-size: 15px;
+    font-family:Tahoma;
+    margin-top: 20px;
+    border: 1px solid rgb(46, 117, 115);
+    cursor: pointer;
+    position: relative;
+    color:white;
+    bottom:450px;
+    left:60px;
+}
+
+.img4{
+    position:relative;
+    bottom:700px;
+    left:-120px;
+    width:250px;
+    height:150px;
+}
+
+.img5{
+    position:relative;
+    bottom:550px;
+    left:-420px;
+    width:150px;
+    height:200px; 
+}
